@@ -14,7 +14,7 @@ public class pr31
 		System.out.print("Enter Decimal number :");
 		long n = s.nextInt();
 		
-		pr29 ob1=new pr29();
+		pr31 ob1=new pr31();
 		System.out.println("Octal number :"+ob1.decimalToOctal(n));
 	}
 }
